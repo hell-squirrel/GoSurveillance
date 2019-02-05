@@ -8,12 +8,12 @@ Application for surveillance based on movement detection via webcam. Supported r
 Surveillance result aka 'Motion capture' by default is stored in folders within timestamps.
 With Telegram Bot token and chatId application can send realtime detection results
 
-####Configuration
+#### Configuration
 
 ---
 Configuration is present in both options, app args and config file
 
-######Arguments usage:
+###### Arguments usage:
 - camera int
   - Camera device id in system to take data from.
 - contours float
@@ -26,7 +26,7 @@ Configuration is present in both options, app args and config file
   - Chat id for reporting
 - token string
   - Bot access token.
-######Config file example
+###### Config file example
 ```
 {
    "onlineReport": false,
