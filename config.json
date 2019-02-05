@@ -1,0 +1,9 @@
+//test example
+{
+  "onlineReport": false,
+  "token": "123455218:BBHfTwgT78NmQUSFRfyjZeT2-erttEiTKvF",
+  "camDeviceId": 2,
+  "chatId": 123455215,
+  "reportInterval": 1500,
+  "reportContourArea": 3200
+}
